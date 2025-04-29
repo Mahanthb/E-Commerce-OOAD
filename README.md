@@ -2,9 +2,9 @@
 
 ## About 💬
 This is a simple e-commerce website implemented using the `Spring Boot` framework in Java, by a group of four members, namely 
-PES1UG22CS321 - MAHANTH KUMAR B
-PES1UG22CS331 - MANISH MEGHASHYAM NAIK
-PES1UG22CS341 - MD AZEEM 
+PES1UG22CS321 - MAHANTH KUMAR B ||
+PES1UG22CS331 - MANISH MEGHASHYAM NAIK ||
+PES1UG22CS341 - MD AZEEM ||
 PES1UG22CS356 - MOHAMMAD NIHAL
 
 ## Tech Stack 👨‍💻
